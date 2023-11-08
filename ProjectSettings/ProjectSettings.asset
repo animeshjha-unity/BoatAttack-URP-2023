@@ -173,6 +173,7 @@ PlayerSettings:
   buildNumber:
     Bratwurst: 0
     Standalone: 0
+    VisionOS: 0
     iPhone: 0
     tvOS: 0
   overrideDefaultApplicationIdentifier: 0
@@ -197,8 +198,8 @@ PlayerSettings:
   tvOSSdkVersion: 0
   tvOSRequireExtendedGameController: 0
   tvOSTargetOSVersionString: 13.0
-  bratwurstSdkVersion: 0
-  bratwurstTargetOSVersionString: 13.0
+  VisionOSSdkVersion: 0
+  VisionOSTargetOSVersionString: 1.0
   uIPrerenderedIcon: 0
   uIRequiresPersistentWiFi: 0
   uIRequiresFullScreen: 1
@@ -250,10 +251,10 @@ PlayerSettings:
   appleDeveloperTeamID: BVPN9UFA9B
   iOSManualSigningProvisioningProfileID: 
   tvOSManualSigningProvisioningProfileID: 
-  bratwurstManualSigningProvisioningProfileID: 
+  VisionOSManualSigningProvisioningProfileID: 
   iOSManualSigningProvisioningProfileType: 0
   tvOSManualSigningProvisioningProfileType: 0
-  bratwurstManualSigningProvisioningProfileType: 0
+  VisionOSManualSigningProvisioningProfileType: 0
   appleEnableAutomaticSigning: 1
   iOSRequireARKit: 0
   iOSAutomaticallyDetectAndAddCapabilities: 1
@@ -792,7 +793,7 @@ PlayerSettings:
     Android: URP;USE_CUSTOM_METADATA
     Nintendo Switch: URP;USE_CUSTOM_METADATA
     PS4: URP;USE_CUSTOM_METADATA
-    Standalone: URP;USE_CUSTOM_METADATA;RENDER_GRAPH_ENABLED
+    Standalone: URP;USE_CUSTOM_METADATA
     WebGL: URP;USE_CUSTOM_METADATA
     Windows Store Apps: URP;USE_CUSTOM_METADATA
     XboxOne: URP;USE_CUSTOM_METADATA
